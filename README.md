@@ -8,25 +8,30 @@
 🧠 Continuously improving skills in machine learning and data analysis
 
 💻 Experienced with:
+  
   •Python (Pandas, NumPy, Matplotlib, Scikit-learn)
   •SQL (MySQL)
   •Excel (Advanced data analysis & reporting)
 
 🤖 Currently working on:
+  
   •Machine Learning models
   •Feature engineering & data preprocessing
   •Model evaluation and optimization
 
 📈 Areas of interest:
+  
   •Data Science & AI
   •Big Data analytics
   •Business intelligence
 
 🛠️ Project experience includes:
+  
   •Data visualization & storytelling
   •Predictive modeling & classification tasks
 
 🎯 Career goal:
+  
   •Becoming a Data Scientist and contributing to impactful AI-driven projects
 
 🔍 Actively seeking internship / entry-level opportunities in Data Science
