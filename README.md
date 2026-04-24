@@ -1,4 +1,4 @@
-# Hello 👋, I'm Ferhat Aydemir
+# Hello 👋, I'm Ferhat
 ### A passionate 4th-year Statistics student focused on Data Science & AI
 
 🚀 About Me
